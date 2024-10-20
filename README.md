@@ -29,5 +29,9 @@ The dataset includes the following tables:
 
 ## Results
 ![newplot](https://github.com/user-attachments/assets/235fd07b-3636-4f44-bc8b-509c3db7539e)
+## Pizza Sales Dashboard
+To view the interactive dashboard, click [here](pizza_sales_dashboard.html).
+
+
 
 
